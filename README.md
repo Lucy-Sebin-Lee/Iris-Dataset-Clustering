@@ -12,7 +12,7 @@ This project demonstrates **unsupervised clustering** using the classic [Iris da
 * ## 📁 Repository Structure  
 ```
 ├── Iris-Dataset-Clustering.ipynb       # Main Jupyter notebook with analysis, visualizations, and modeling
-├── iris.csv                            # Raw dataset from the [original source](https://gist.github.com/netj/8836201)
+├── iris.csv                            # Raw dataset from the original source
 ├── README.md                           # Project overview, objectives, and findings
 ```
 
