@@ -1,15 +1,15 @@
 # Iris Dataset Clustering with K-Means
 
+## 📊 Overview
 This project demonstrates **unsupervised clustering** using the classic [Iris dataset](https://gist.github.com/netj/8836201). The notebook applies the **K-Means** algorithm to group iris flowers into clusters based on their sepal and petal dimensions.
 
-## 🔍 Overview
-
+## 🎯 Objectives  
 - Loads and explores the Iris dataset.
 - Visualizes relationships between features using scatter plots.
 - Applies K-Means clustering using all 4 numerical features.
 - Compares clustering results with actual species labels (for validation only).
 
-* ## 📁 Repository Structure  
+## 📁 Repository Structure  
 ```
 ├── Iris-Dataset-Clustering.ipynb       # Main Jupyter notebook with analysis, visualizations, and modeling
 ├── iris.csv                            # Raw dataset from the original source
